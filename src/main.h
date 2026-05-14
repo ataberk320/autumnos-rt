@@ -16,3 +16,5 @@ rt_thread_t acrtask(const char *name, void (*entry) (void* parameter), uint32_t 
 //mem.c
 void* atm_malloc(uint32_t size);
 void afree(void *ptr, uint32_t size);
+
+#endif
