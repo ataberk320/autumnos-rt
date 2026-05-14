@@ -10,5 +10,4 @@ void a_kpanic(const char *reason);
 void entry(void *par);
 void corethr(void);
 
-
 #endif
