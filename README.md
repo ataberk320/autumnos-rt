@@ -2,7 +2,7 @@
 
 # AutumnOS-RT
 
-The RT-Thread based version of AutumnOS for low-RAM processors, This operating system aims to provide users with a smooth experience and performance, even with minimal RAM, by reducing unnecessary system services and light UI.
+The RT-Thread based version of AutumnOS for low-RAM processors, this operating system aims to provide users with a smooth experience and performance, even with minimal RAM, by reducing unnecessary system services and light UI.
 
 --------------------------------------------
 Technical information:
