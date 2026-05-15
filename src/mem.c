@@ -1,7 +1,7 @@
-#include "mem.h"
-#include "drivers.h"
+#include "cdictheader/mem.h"
+#include "include/drivers.h"
 #include <rtthread.h>
-#include "main.h"
+#include "cdictheader/main.h"
 
 typedef struct {
 	uint32_t total_alloc;

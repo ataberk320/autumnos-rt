@@ -1,6 +1,6 @@
 #include "drivers.h"
 #include <rtthread.h>
-#include "main.h"
+#include "cdictheader/main.h"
 
 void entry(void *par) {
 	while (1) {
