@@ -33,9 +33,9 @@ int storage_init(void);
 int write(const char *path, const void *data, uint32_t len);
 int read(const char *path, void* buffer, uint32_t len);
 
-//SD.c
-int sdcard(void);
-int sdcart_mnt(void);
+//rtclock.c
+int rtc_device(void);
+void a_time(void);
 
 //scr.c
 int screen_init(void);
