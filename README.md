@@ -24,4 +24,4 @@ Requirements:
 - ESP32 or Allwinner D1 processor (SoM or SoC)
 
 ----------------------------------------------
-[**Original AutumnOS Project](https://www.github.com/ataberk320/autumnos-mobile)
+[**Original AutumnOS Project**](https://www.github.com/ataberk320/autumnos-mobile)
