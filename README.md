@@ -13,7 +13,7 @@ Technical information:
 - SIM800L/Battery/Sound/Touchscreen drivers
 - Millisecond timer support
 - DFS (RT-Thread Embedded filesystem) support
-- AutumnCore lite version
+- Autumn Core/API lite version
 - AutumnIO lite version
 - SD card mounting
 - Task handler
