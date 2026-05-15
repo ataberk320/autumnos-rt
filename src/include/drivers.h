@@ -33,10 +33,7 @@ int storage_init(void);
 int write(const char *path, const void *data, uint32_t len);
 int read(const char *path, void* buffer, uint32_t len);
 
-//sound.c
-int init(void);
-void play(uint8_t *buffer, uint32_t size);
-void sound_vol(int vol);
+//SD.c
 
 //scr.c
 int screen_init(void);
