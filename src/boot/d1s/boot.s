@@ -27,7 +27,7 @@ _start:
 	tail entry
 
 .section .stack
-.align 3
+.align 4
 _stack_bottom:
 	.space 8192
 _stack_top:
