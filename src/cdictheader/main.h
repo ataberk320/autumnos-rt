@@ -10,13 +10,6 @@ void a_kpanic(const char *reason);
 void entry(void *par);
 void corethr(void);
 
-//task.c
-rt_thread_t acrtask(const char *name, void (*entry) (void* parameter), uint32_t stack_size, uint8_t priority);
-
-//mem.c
-void* atm_malloc(uint32_t size);
-void afree(void *ptr, uint32_t size);
-
 //AutumnIO.c
 int aopen(const char *path, int flags);
 int aread(int fd, void *buf, uint32_t len);
