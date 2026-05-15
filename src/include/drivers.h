@@ -34,6 +34,8 @@ int write(const char *path, const void *data, uint32_t len);
 int read(const char *path, void* buffer, uint32_t len);
 
 //SD.c
+int sdcard(void);
+int sdcart_mnt(void);
 
 //scr.c
 int screen_init(void);
