@@ -1,4 +1,5 @@
 #include <rtthread.h>
+#include <drivers.h>
 
 uint32_t tick_ms(void) {
 	return (uint32_t)rt_tick_get_millisecond();

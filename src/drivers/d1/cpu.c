@@ -1,15 +1,15 @@
-#include "drivers.h"
+#include <drivers.h>
 #include <rtthread.h>
 
 const char* cpuv(void) {
 	unsigned long vid = 0;
 
-	__asm__ volatile ("csrr %0, mvendorid" : "=r"(vendor_id));
+	__asm__ volatile ("csrr %0, mvendorid" : "=r"(vid));
 	
 	if (vid == 0x5b7) {
 		return "Allwinner Technology D1";
 	}
-	else if (vid = 0) {
+	else if (vid == 0) {
 		return "Generic/Unknown";
 	}
 	return "NULL";

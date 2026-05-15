@@ -1,6 +1,7 @@
 #include <rtthread.h>
 #include <rtdevice.h>
-
+#include <drivers.h>
+#define AUDIO_DEV_NAME "sound0"
 static rt_device_t audio_dev = RT_NULL;
 
 int init(void) {
