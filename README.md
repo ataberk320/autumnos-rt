@@ -9,10 +9,12 @@ Technical information:
 
 - Allwinner D1 and ESP32 support
 - Memory allocator
-- SIM800L/Battery/Sound drivers
+- SIM800L/Battery/Sound/Touchscreen drivers
 - Millisecond timer support
 - DFS (RT-Thread Embedded filesystem) support
 - AutumnCore lite version
+- AutumnIO lite version
+- SD card mounting
 - Task handler
 - Kernel panic handler
 ---------------------------------------------
