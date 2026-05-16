@@ -37,6 +37,7 @@ Requirements:
       <img width="300" height="398" alt="bandicam 2026-05-16 14-34-43-915" src="https://github.com/user-attachments/assets/ac0e4130-1773-4494-9f12-8cb9783e39e1" />
       <br><sub><b>Apps menu</b></sub>
     </td>
+    <td width="%50" align="center">
       <img width="300" height="398" alt="bandicam 2026-05-16 14-34-48-987" src="https://github.com/user-attachments/assets/a13ef1c8-28f6-45a4-bb8b-a1d699aba833" />
       <br><sub><b>Home page</b></sub>
     </td>
