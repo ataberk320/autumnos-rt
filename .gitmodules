@@ -2,5 +2,5 @@
 	path = rt-thread
 	url = https://github.com/RT-Thread/rt-thread.git
 [submodule "musl-cross"]
- path = musl-cross
- url = https://github.com/cross-tools/musl-cross
+    path = musl-cross
+    url = https://github.com/cross-tools/musl-cross
