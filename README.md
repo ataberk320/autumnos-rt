@@ -9,6 +9,8 @@ Technical information:
 
 - D1s, STM32 and ESP32 device drivers
 - LVGL (AutumnL-UI)
+- OV2640, DAC devices
+- Watchdog timer
 - Allwinner D1 and ESP32 support
 - Memory allocator
 - SIM800L/Battery/Sound/Touchscreen drivers
@@ -17,7 +19,6 @@ Technical information:
 - Autumn Core/API lite version
 - AutumnIO lite version
 - SD card mounting
-
 - Task handler
 - Kernel panic handler
 ---------------------------------------------
