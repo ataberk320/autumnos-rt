@@ -7,7 +7,7 @@ The RT-Thread based version of AutumnOS for low-RAM processors, this operating s
 --------------------------------------------
 Technical information:
 
-- LVGL
+- LVGL (AutumnL-UI)
 - Allwinner D1 and ESP32 support
 - Memory allocator
 - SIM800L/Battery/Sound/Touchscreen drivers
