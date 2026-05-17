@@ -1,4 +1,5 @@
-<img width="148" height="148" alt="1000005253-removebg-preview" src="https://github.com/user-attachments/assets/804ac2b9-729b-44a7-9909-915e41bab001" />
+<img width="148" height="148" alt="Frame 21" src="https://github.com/user-attachments/assets/559b1984-e904-42f7-b4ce-e92c90db4db3" />
+
 
 # AutumnOS "Through" Edition
 
