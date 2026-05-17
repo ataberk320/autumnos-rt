@@ -12,7 +12,7 @@ Technical information:
 - LVGL (AutumnL-UI)
 - OV2640, DAC devices
 - Watchdog timer
-- Allwinner D1 and ESP32 support
+- Microcontrollers (STM32, ESP32, some Raspberry Pi) support
 - Memory allocator
 - SIM800L/Battery/Sound/Touchscreen drivers
 - Millisecond timer support
@@ -26,8 +26,8 @@ Technical information:
 
 Requirements: 
 - RAM lower than 1GB
-- ESP32 or Allwinner D1 processor (SoM or SoC)
-
+- ESP32 or STM32 processor
+  
 ----------------------------------------------
 # Screenshots:
 <table border="0" width="100">
